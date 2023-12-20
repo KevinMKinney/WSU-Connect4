@@ -1,0 +1,10 @@
+Build the Python project
+
+To test your work: 
+linux> python3 assignment6.py
+
+Files:
+README                 This file
+classes.txt            contains classes, can use for testing if you wish
+tab.txt                tab delimited file for testing
+*.py                   Python files for this project
